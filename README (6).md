@@ -415,6 +415,7 @@ Follow these steps to upload your local PowerShell project files from Visual Stu
 3. Right-click on your **Function App name** and select **Deploy to Function App...** from the context menu.<img width="709" height="997" alt="image" src="https://github.com/user-attachments/assets/c94628a1-aa60-467b-a0aa-6501524668d9" />
 4. Select your local root folder path `IdentityGovernanceBot` when prompted for the workspace resource.
 5. Click **Deploy** to confirm and initiate the file packaging upload sequence.
+<img width="1123" height="995" alt="Screenshot 2026-09-08 153400" src="https://github.com/user-attachments/assets/4b6107c2-aac8-4d78-bdb8-b6fa147a91e1" />
 
 #### Step 4: Monitor Deployment Status
 1. Watch the execution progress panel in the bottom-right notification banner of your VS Code workspace.
